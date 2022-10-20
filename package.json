@@ -1,5 +1,5 @@
 {
-  "name": "git-subtree",
+  "name": "git-subtree2",
   "version": "0.2.1",
   "description": "Git subtree helper",
   "main": "index.js",
@@ -7,11 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "gitsbt": "bin/gitsbt"
+    "gitsbt2": "bin/gitsbt"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plitex/git-subtree.git"
+    "url": "git+https://github.com/Dellear/git-subtree2.git"
   },
   "keywords": [
     "git",
@@ -19,10 +19,7 @@
   ],
   "license": "MIT",
   "author": "Miguel A. Mejias",
-  "bugs": {
-    "url": "https://github.com/plitex/git-subtree/issues"
-  },
-  "homepage": "https://github.com/plitex/git-subtree#readme",
+  "homepage": "https://github.com/Dellear/git-subtree2#readme",
   "dependencies": {
     "async": "^1.4.0",
     "colors": "^1.1.2",
